@@ -6,7 +6,16 @@ tap caskroom/cask
 install brew-cask
 cask install atom
 cask install bathyscaphe
+cask install cooviewer
+cask install dropbox
+cask install github
+cask install google-chrome
+cask install iterm2
+cask install kobito
+cask install mi
 cask install mplayerx
+cask install sourcetree
+cask install vlc
 cask install xquartz
 
 ## rcmdnk/file
@@ -81,7 +90,6 @@ appstore Keynote
 appstore Microsoft Remote Desktop
 appstore Photos Duplicate Cleaner
 appstore Skitch
-appstore Slack
 appstore Sunrise
 appstore The Unarchiver
 appstore Twitter
