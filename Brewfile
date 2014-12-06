@@ -4,6 +4,9 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install atom
+cask install bathyscaphe
+cask install mplayerx
 cask install xquartz
 
 ## rcmdnk/file
