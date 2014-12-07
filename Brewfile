@@ -14,6 +14,7 @@ cask install iterm2
 cask install kobito
 cask install mi
 cask install mplayerx
+cask install onepassword
 cask install sourcetree
 cask install vlc
 cask install xquartz
