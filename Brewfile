@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install 1password
 cask install atom
 cask install bathyscaphe
 cask install cooviewer
@@ -79,11 +80,6 @@ install wget
 install xz
 install zeromq
 install zsh
-
-# Below applications were installed by Cask,
-# but don't not have corresponding casks.
-
-#cask  install onepassword (!)
 
 # App Store applications
 appstore Dash
