@@ -14,7 +14,6 @@ cask install iterm2
 cask install kobito
 cask install mi
 cask install mplayerx
-cask install onepassword
 cask install sourcetree
 cask install vlc
 cask install xquartz
@@ -80,6 +79,11 @@ install wget
 install xz
 install zeromq
 install zsh
+
+# Below applications were installed by Cask,
+# but don't not have corresponding casks.
+
+#cask  install onepassword (!)
 
 # App Store applications
 appstore Dash
